@@ -1,0 +1,9 @@
+ronny,2000
+jamal,1000
+danny,1500
+rodney,1000
+bjorn,1000
+stacy,1000
+jimmy,500
+tim,1000
+sacy,1000
